@@ -44,6 +44,4 @@ public class UsbSaver {
             Logger.getLogger("openWeatherMap").log(Level.WARNING, "Exception createProperties", e);
         }
     }
-
-
 }
